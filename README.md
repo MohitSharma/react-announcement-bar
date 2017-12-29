@@ -1,17 +1,18 @@
-react-announcement-bar
+## React Announcement Bar
 
 Make Announcement Bar On React Website
 
+### Demos
 
-#### Demos
+Coming Soon
 
 
-## Installation
+### Installation
 ```sh
 npm install react-announcement-bar
 ```
 
-## Overview & Basic Example
+### Overview & Basic Example
 `<AnnouncementBar />` You can pass HTML to this component as children. Component has following options to configure
  - `width` _(string)_ - width of announcement bar in px or %
  - `height` _(string)_ - height of announcement bar in px
